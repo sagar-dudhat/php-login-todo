@@ -57,6 +57,6 @@ echo $_GET['msg'];
 </html>
 <!--
 			else if(b != $_GET['password'] ) {
-				<?php echo "Please enter valid pass.";
+				<?php echo "Please enter valid pass. okkk";
 				?>
 			}-->
